@@ -1,0 +1,8 @@
+{
+  "name": "OmnisenseApp",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "id": "554473b6"
+}
